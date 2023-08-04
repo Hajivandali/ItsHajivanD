@@ -4,8 +4,7 @@
 <br> <br>  
   <p >📚 I Have a becheleor's degree in management .
 <p/>
-  💻I am Learning languages and web frameworks ,
-  I am trying to implement personal projects in the cloud 💻
+  💻I am Learning languages and web frameworks 💻
 <br> <br> <br><br>
   
 <h3 align="center">Expertise </h3>
